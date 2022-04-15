@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T06:20:10.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="38SydnjtA5Ev6iSS48Mh" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T06:20:50.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="SUHhAbD4HJQv37AuudTp" version="17.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1550" dy="2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,10 @@
           <mxGeometry x="15" y="777.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SqZgt--YvznunEqV0woP-23" value="dest_cargo_actual_price" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="281" y="770" width="196" height="45" as="geometry" />
+          <mxGeometry x="290" y="770" width="196" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SqZgt--YvznunEqV0woP-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SqZgt--YvznunEqV0woP-24" target="SqZgt--YvznunEqV0woP-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SqZgt--YvznunEqV0woP-24" value="Lgb/深度模型" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fillColor=default;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="522" width="126" height="126" as="geometry" />
@@ -122,7 +125,7 @@
           <mxGeometry x="160" y="867.5" width="196" height="45" as="geometry" />
         </mxCell>
         <mxCell id="SqZgt--YvznunEqV0woP-34" value="&lt;b&gt;+&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="371" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="361" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SqZgt--YvznunEqV0woP-35" value="Top1 recall、precision" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="867.5" width="196" height="45" as="geometry" />
@@ -148,10 +151,10 @@
           <mxGeometry x="420" y="40" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SqZgt--YvznunEqV0woP-42" value="&lt;b&gt;predict_price&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="15" y="660" width="70" height="30" as="geometry" />
+          <mxGeometry x="15" y="680" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SqZgt--YvznunEqV0woP-43" value="dest_cargo_predict_price" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="285" y="660" width="196" height="45" as="geometry" />
+          <mxGeometry x="285" y="680" width="196" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
